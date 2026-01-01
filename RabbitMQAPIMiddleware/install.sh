@@ -10,4 +10,4 @@ for arg in "$@"; do
   fi
 done
 
-curl -n -s https://raw.githubusercontent.com/EmanueleUniroma2/MyDeployToolkit/refs/heads/main/Scripts/install.sh
+curl -n -s https://raw.githubusercontent.com/EmanueleUniroma2/MyDeployToolkit/refs/heads/main/Scripts/install.sh | bash
