@@ -10,4 +10,4 @@ for arg in "$@"; do
   fi
 done
 
-curl -H "Cache-Control: no-cache" -s https://raw.githubusercontent.com/EmanueleUniroma2/MyDeployToolkit/refs/heads/main/installer.sh | bash
+curl -n -s https://raw.githubusercontent.com/EmanueleUniroma2/MyDeployToolkit/refs/heads/main/Scripts/install.sh
