@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EJVCISBSccS1Y4Ekv3jcnAcAAg1JZRCFvGrbag2LnJY=",
+  "Source": "RabbitMQAPIMiddleware",
+  "BasePath": "_content/RabbitMQAPIMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RabbitMQAPIMiddleware/wwwroot",
+      "Source": "RabbitMQAPIMiddleware",
+      "ContentRoot": "/home/emanuele/Repos/RabbitMQAPIMiddleware/RabbitMQAPIMiddleware/wwwroot/",
+      "BasePath": "_content/RabbitMQAPIMiddleware",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/emanuele/Repos/RabbitMQAPIMiddleware/RabbitMQAPIMiddleware/wwwroot/index.html",
+      "SourceId": "RabbitMQAPIMiddleware",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emanuele/Repos/RabbitMQAPIMiddleware/RabbitMQAPIMiddleware/wwwroot/",
+      "BasePath": "_content/RabbitMQAPIMiddleware",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
